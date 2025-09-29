@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1>Hi! I'm Manya╰(*°▽°*)╯</h1>
+<h2>About me</h2>
+<p>I'm a Junior, majoring in Computer Engineering at Stony Brook University, NY. I love coding</p>
+
+<h2>Skills</h2>
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%20-%20blue?style=for-the-badge&logo=C">
+<img alt="Static Badge" src="https://img.shields.io/badge/Assembly%20-%20blue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-%20blue?style=for-the-badge&logo=Git">
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-%20blue?style=for-the-badge&logo=Java">
+
 
 <!--
 **ChauhanManya/ChauhanManya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
