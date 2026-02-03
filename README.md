@@ -1,14 +1,18 @@
-<h1>Hi! I'm Manya╰(*°▽°*)╯</h1>
-<h2>About Me</h2>
-<p>I'm a Junior, majoring in Computer Engineering at Stony Brook University, NY.</p>
+<h1>Hi! i'm Manya ╰(*°▽°*)╯</h1>
+<h2> About me:</h2>
+<p>I'm a Junior, majoring in Computer Engineering at Stony Brook University, NY. I'm interested in embedded systems and semiconductors.</p>
 
-<h2>Skills</h2>
-<img alt="Static Badge" src="https://img.shields.io/badge/Assembly%20-%20blue?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/C%20-%20blue?style=for-the-badge&logo=C">
-<img alt="Static Badge" src="https://img.shields.io/badge/C%20-%20blue?style=for-the-badge&logo=C">
-<img alt="Static Badge" src="https://img.shields.io/badge/Git-%20blue?style=for-the-badge&logo=Git">
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-%20blue?style=for-the-badge&logo=Java">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white">
+<h3>Skills:</h3>
+<p>I'm currently learning: <b><i>VHDL</b></i> and <b><i>C++</b></i>, here are some of my more established skills</p>
+<p align="center">
+  <ul>
+    <li>AVR Assembly</li>
+    <li>C</li>
+    <li>C++</li>
+    <li>Java</li>
+    <li>Python</li>
+  </ul>
+</p>
 
 
 <!--
